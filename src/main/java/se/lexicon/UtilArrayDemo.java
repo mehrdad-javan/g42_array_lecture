@@ -45,4 +45,7 @@ public class UtilArrayDemo {
 
   }
 
+  public static void ex4(){
+
+  }
 }
